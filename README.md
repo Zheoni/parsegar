@@ -15,7 +15,7 @@ Next create a argsParser object with the config object, argc and argv.
 A simple example:
 
 ```c++
-#include "arg-parser.hpp"
+#include "parsegar.hpp"
 #include <iostream>
 
 int main(int argc, const char** argv) {
